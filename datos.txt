@@ -1,0 +1,16 @@
+Gamers <span>by World Games
+
+
+					<li><a href="index.html">INICIO</a></li>
+					<li><a href="generic.html">JUEGOS</a></li>
+					<li><a href="elements.html">NOTICIAS</a></li>
+					<li><a href="elements.html">DISPOSITIVOS</a></li>
+					<li><a href="elements.html">VIDEOS</a></li>
+					<li><a href="elements.html">CHATS</a></li>
+
+<iframe width="560" height="315"  frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+&copy; WorldGames. Images: <a href="https://pixabay.com/es/">Pixabay</a>. Video: <a href="https://www.youtube.com">Youtube</a>.
+
+
+https://as.com/meristation/
